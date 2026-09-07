@@ -1,4 +1,4 @@
-# Add Campaign Intelligence Dashboard 🚀
+# Ad Campaign Intelligence Dashboard 🚀
 
 A modern, highly-interactive web application built to analyze and monitor advertising campaigns in real-time. This project features a robust analytics dashboard paired with a state-of-the-art **Neural AI Analyst** that can answer questions based on your live campaign data.
 
